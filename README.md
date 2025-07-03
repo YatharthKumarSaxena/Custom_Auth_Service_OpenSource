@@ -31,7 +31,7 @@ This repository is **purely** for external contributions. Think of it as the pub
 
 * ⏳ **30 days** of focused backend design & development.
 * ✅ **296 commits** — every thought versioned.
-* 📄 **4 500+ lines** of handwritten code (*excluding Express.js boilerplate*).
+* 📄 **4500+ lines** of handwritten code (*excluding Express.js boilerplate*).
 * 🧠 17 APIs · JWT auth · device-aware sessions · rate limiting · single-admin model.
 
 ---
@@ -41,7 +41,7 @@ This repository is **purely** for external contributions. Think of it as the pub
 **Design Principles:** SOLID · DRY · YAGNI · KISS  
 **Design Patterns:** Singleton · Factory · Template Method · Strategy · Chain-of-Responsibility
 
-High-level design (HLD) and low-level design (LLD) diagrams are documented in the `/docs` folder. The service is microservice-ready and battle-tested for scalability.
+The service is microservice-ready and battle-tested for scalability.
 
 ---
 
@@ -58,7 +58,6 @@ High-level design (HLD) and low-level design (LLD) diagrams are documented in th
 | `rate-limiters/` | ⏱️ Custom limiter factories      |
 | `services/`      | ⚙️ Business logic abstractions   |
 | `utils/`         | 🧰 Helper utilities              |
-| `docs/`          | 📚 HLD & LLD diagrams            |
 | `README.md`      | 🗺️ You are here!                |
 
 Every sub-folder contains its own `README.md` with deeper details. 📝
@@ -107,7 +106,6 @@ Contributions **must** align with existing HLD/LLD and follow design principles.
 * **JWT** (access & refresh)  
 * **Cron** jobs (log & account cleanup)  
 * **Rate Limiting** (device/user aware)  
-* **Testing:** Jest + Supertest  
 
 Design mantra: *clean code, clear contracts, scalable architecture.*
 
