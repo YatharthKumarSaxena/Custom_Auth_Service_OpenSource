@@ -2,7 +2,7 @@
 
 <!-- Intro Narration -->
 
-Hey there! I’m **Yatharth Kumar Saxena**, and over the last 30 days I hand-crafted a production-grade authentication service (🌟 296 commits, 4 500+ lines of handwritten code). Now I’m opening the doors so the community can push it even further.
+Hey there! I’m **Yatharth Kumar Saxena**, and over the last 30 days I hand-crafted a production-grade authentication service (🌟 296 commits, 4500+ lines of handwritten code). Now I’m opening the doors so the community can push it even further.
 
 ---
 
@@ -47,7 +47,7 @@ High-level design (HLD) and low-level design (LLD) diagrams are documented in th
 
 ## 🗂️ **Folder Structure**
 
-> Total files: **175+** (source, configs, docs, tests)
+> Total files: **60+** (source, configs, docs, tests excluding node_modules folder)
 
 | 📁 /folder       | 🏷️ Description                  |
 | ---------------- | -------------------------------- |
